@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Erik Pekkari
+# 👋 Hi, I’m Victor Pekkari
 
 🎓 I’m a Master’s student in **Machine Intelligence** at Lund University, Sweden.  
-🌍 Currently on exchange at **UC San Diego**, focusing on AI research and advanced systems.  
-🧪 I’m working as a research assistant on **reasoning in large language models (LLMs)** under Prof. Paturi.  
+🌍 Currently on exchange at **UC San Diego**, Studying Mahcine learning and Mathematics, and reserching reasoning in LLMs in the Labratory for Emerging intelligence at UCSD. 
+🧪 I’m working as a research assistant on **reasoning in large language models (LLMs)**.  
 🛫 This summer, I’ll be joining **Neo4j** as a Machine Learning Intern in Sweden.
 
 ---

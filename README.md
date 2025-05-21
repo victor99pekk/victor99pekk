@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Victor Pekkari
+# 👋 Hi, I’m Armon Haghighi
 
 🎓 I’m a Master’s student in **Machine Intelligence** at Lund University, Sweden.  
 🌍 Currently on exchange at **UC San Diego**, Studying Mahcine learning and Mathematics, and reserching reasoning in LLMs in the Labratory for Emerging intelligence at UCSD

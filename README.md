@@ -10,16 +10,14 @@ I am currently working as an intern at `Neo4j`.
 
 - 🤖 Deep learning for **combinatorial optimization**
 - 📊 **Machine learning systems**: compilation, quantization, performance tuning
-- 🧠 **LLM reasoning** and structured prompting
-- 🧮 **Quantum computing** and circuit-based algorithms
-- ♟️ Building intelligent agents for decision-making tasks
+- 🧠 **LLM reasoning** and problem solving
 
 ---
 
 ## 📁 Featured Projects
 
 - 🔗 [**Pointer Network for Max-Cut**](https://github.com/victor99pekk/Random-Matrix_Machine-Learning)  
-  Supervised learning approach for solving the Max-Cut problem using encoder-decoder LSTMs.
+  Supervised learning approach for solving the Max-Cut problem using encoder-decoder LSTMs and transfomer models.
 
 - ⚛️ [**Neural Network - Library in C**](https://github.com/victor99pekk/c_neural_network)  
   Neural-network framework engineered from scratch in C for versatile model design

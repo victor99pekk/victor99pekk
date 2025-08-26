@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Victor Pekkari
 
-I’m a Master’s student in **Machine Intelligence** at Lund University and UC San Diego.  
+I’m a Master’s student in **Machine Intelligence** at `Lund University` and `UC San Diego`.  
 
-I am currently working as an intern at Neo4j.
+I am currently working as an intern at `Neo4j`.
 
 ---
 
